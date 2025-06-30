@@ -46,6 +46,7 @@ docker run -p 80:80 color-guess-game
 ```
 Then open: http://localhost
 
+```
 📁 Project Structure
 color-guess-game/
 ├── src/
@@ -63,15 +64,13 @@ color-guess-game/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── vite.config.js
-🧠 Future Ideas
-Level progression (4x4 → 5x5 → 6x6)
+```
+### 🧠 Future Ideas
+1. Level progression (4x4 → 5x5 → 6x6)
+2. Timer or Challenge mode
+3. Leaderboard (with backend)
+4. Sound effects
 
-Timer or Challenge mode
-
-Leaderboard (with backend)
-
-Sound effects
-
-👤 Author
-Md Mazidul Islam
+## 👤 Author
+### Md Mazidul Islam
 🔗 GitHub Profile
