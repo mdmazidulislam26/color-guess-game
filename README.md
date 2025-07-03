@@ -73,4 +73,4 @@ color-guess-game/
 
 ## 👤 Author
 ### Md Mazidul Islam
-🔗 GitHub Profile
+🔗 GitHub Profile : https://github.com/mdmazidulislam26
