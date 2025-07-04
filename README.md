@@ -63,7 +63,7 @@ color-guess-game/
 ├── package.json
 ├── tailwind.config.js
 ├── postcss.config.js
-└── vite.config.js
+└── vite.config.js 
 ```
 ### 🧠 Future Ideas
 1. Level progression (4x4 → 5x5 → 6x6)
