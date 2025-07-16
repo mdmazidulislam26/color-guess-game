@@ -72,5 +72,5 @@ color-guess-game/
 4. Sound effects
 
 ## 👤 Author
-### Md Mazidul Islam 
+### Md Mazidul Islam
 🔗 GitHub Profile : https://github.com/mdmazidulislam26
